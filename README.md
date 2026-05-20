@@ -10,11 +10,11 @@
 - Cybersecurity Intern
 
   ## Beyond the Code
-  I write about Faith, becoming and the slow work of becoming human at [Life In Different Hues]
+  I write about Faith, becoming and the slow work of becoming human at [Life In Different Hues] ( https://substack.com/@jothamkira)
 
   ## Let's Connect
-  X : @jotham_kira (https://www.x.com/jotham_kira)
-  Substack : https://substack.com/@jothamkira
+-  X : @jotham_kira (https://www.x.com/jotham_kira)
+-  Substack : https://substack.com/@jothamkira
 <!---
 Qheerah/Qheerah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
